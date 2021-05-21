@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 work/chapter3.py"
