@@ -4,7 +4,7 @@ fav_colour = input("what is your favourite colour")
 
 # asks users for the info and stores it in a variable
 
-print(f'my favourate food is {fav_food} and my favourite colour is {fav_colour}')
+print(f"my favourate food is {fav_food} and my favourite colour is {fav_colour}")
 
 print(f'my favourate food is {fav_food} and my favourite colour is {fav_colour}')
 
