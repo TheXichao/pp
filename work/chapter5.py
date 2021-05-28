@@ -6,7 +6,7 @@ def task1():
         blist.append(0)
     clist = alist + blist
     lastC = clist[-1]
-    clist.pop
+    clist.pop()
 
 def task2():
     names = []
